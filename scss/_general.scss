@@ -31,3 +31,18 @@ img {
 .main {
 	flex-grow: 1;
 }
+.link{
+	transition: all 0.3s ease-in-out;
+}
+.link-light{
+	transition: all 0.3s ease-in-out;
+
+}
+.link-light:hover{
+	color: #002529;
+	background: #fff;
+}
+.link:hover{
+	color: #FFFFFF;
+	background: #012F34;
+}
